@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -47,14 +47,15 @@ const CONFIG = {
         normal: "And beyond! 🥰"                           // Shows when they go past 100%
     },
 
-    // Messages that appear after they say "Yes!"
-    celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "This Valentine’s week, I’m sending you love in every form I can—
+  // Messages that appear after they say "Yes!"
+celebration: {
+    title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
+    message: `This Valentine’s week, I’m sending you love in every form I can—
 gifts, smiles, hugs, kisses, and endless thoughts of you.
-You are my favorite place, no matter the distance.",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
-    },
+You are my favorite place, no matter the distance.`,
+    emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+},
+
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
